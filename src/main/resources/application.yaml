@@ -9,4 +9,6 @@
 spring:
   profiles:
     active: prod
-
+wheather:
+  api:
+    key: 5edbc1feb2a2247f62e185dab1a809bf
